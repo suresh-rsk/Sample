@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(171, 224, 216);
+}
+#heading{
+    background-color: #a896c4;
+    text-align: center;
+}
+h1{
+    font-style: bold;
+    color: #ff0000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+form{
+    color: rgb(16, 0, 105);
+}
+label{
+   color:indianred
+}
+
+#forms{
+    background-color: lavender;
+}
